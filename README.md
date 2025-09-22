@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Rakul Maria Hjalmarsdóttir Tórgarð
 
 ## 👩🏻‍🦰 About me
 
