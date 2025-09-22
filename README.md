@@ -2,19 +2,15 @@
 
 ## 👩🏻‍🦰 About me
 
+My name is Rakul [ˈraːkʊl] and I'm a Computer Science student, interested in applied analytical data science and the visualisation of it. I specifically enjoy analysing data using python libraries to leverage the analysis part, and then using cool visualisation tools like [D3](https://d3js.org) or [bokeh](http://bokeh.org) to visualize my findings 📊.
+When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀️ running in the park, 🧶 knitting at a café or 🍵🍄‍🟫 brewing Kombucha in my kitchen.
+
 ## 🔭 I’m currently working on ...
 
 
 
 ## 🌱 I’m currently learning ...
 
-
-
-## 💭 Other personal interests include ...
-
-- 🫖 Fermentation: I love to spend time in the kitchen and my current projects include Kombucha brewing and (trying to) keeping my sourdough alive.
-- 🧶 Knitting: You'll often times find me with my knitting-gears in my hand, working on some new project
-- 🏃🏻‍♀️ Running: With help from Nike's Running Club (Coach Bennet)[https://www.instagram.com/coachbennett/?hl=en] I actually learned to love to run. Who would've imagined.
 
 
 
