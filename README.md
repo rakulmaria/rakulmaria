@@ -8,11 +8,11 @@ When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀�
 
 ## 🔭 I’m currently working on ...
 
-
+- School projects about data analysis and visualization 📚
 
 ## 🌱 I’m currently learning ...
 
-
+- Stranded knitting 🤯
 
 
 <!--
