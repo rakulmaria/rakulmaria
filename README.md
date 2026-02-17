@@ -8,10 +8,11 @@ When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀�
 
 ## 🔭 I’m currently working on ...
 
-- School projects about data analysis and visualization 📚
+- becoming a Certified Scrum Master 🧙🏻‍♀️
 
 ## 🌱 I’m currently learning ...
 
+- Spanish 🇪🇸
 - Stranded knitting 🤯
 
 
