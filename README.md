@@ -9,6 +9,7 @@ When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀�
 ## 🔭 I’m currently working on ...
 
 - becoming a Certified Scrum Master 🧙🏻‍♀️
+- scraping CPH restaurants menus to learn more about their climate footprint 💭
 
 ## 🌱 I’m currently learning ...
 
