@@ -2,7 +2,8 @@
 
 ## 👩🏻‍🦰 About me
 
-My name is Rakul [ˈraːkʊl] and I'm a Computer Science student, interested in applied analytical data science and the visualisation of it. I specifically enjoy analysing data using python libraries to leverage the analysis part, and then using cool visualisation tools like [D3](https://d3js.org) or [bokeh](http://bokeh.org) to visualize my findings 📊.
+My name is Rakul [ˈraːkʊl] and I'm a Computer Science student with a soft spot for data analysis and visualisation. I specifically enjoy using Python libraries to dig into data, and tools like [D3](https://d3js.org) or [bokeh](http://bokeh.org) to make it actually mean something 📊.
+I also geek out over DevOps automation and full stack development, and I think the best software teams are cross-functional and share knowledge rather than silo it.
 
 When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀️ running in the park, 🧶 knitting at a café or 🍵🍄‍🟫 brewing Kombucha in my kitchen.
 
