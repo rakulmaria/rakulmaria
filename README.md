@@ -9,13 +9,14 @@ When I'm not spending my time behind a computer, you can find me 🏃🏻‍♀�
 
 ## 🔭 I’m currently working on ...
 
-- improving my Scrum Master skills and supporting my team's ways of working 🧙🏻‍♀️
-- scraping CPH restaurants menus to learn more about their climate footprint 💭
+- collecting menu data from CPH restaurants to learn more about food pairing in the western world 💭
+- helping smaller companies to set up self-managed websites 👾
 
 ## 🌱 I’m currently learning ...
 
-- Spanish 🇪🇸
-- Stranded knitting 🤯
+- to accept the process of writing a master thesis (!) 🙈
+- my cat new tricks 🐈‍⬛
+- stranded knitting 🤯
 
 
 <!--
